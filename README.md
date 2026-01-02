@@ -16,7 +16,12 @@ A RESTful API built with Node.js, Express, and SQLite for managing products and 
 
 ## Project Structure
 src/
+
 ├── routes/
+
 ├── controllers/
+
 ├── db/
+
 ├── app.js
+
