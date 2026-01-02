@@ -14,14 +14,3 @@ A RESTful API built with Node.js, Express, and SQLite for managing products and 
 - SQLite
 - JavaScript (ES Modules)
 
-## Project Structure
-src/
-
-├── routes/
-
-├── controllers/
-
-├── db/
-
-├── app.js
-
